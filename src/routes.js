@@ -15,7 +15,7 @@ export const routes = createBrowserRouter([
             {
                 path:'/movies',
                 element: <Movies></Movies>
-            }
+            },
         ]
     }
 ])
