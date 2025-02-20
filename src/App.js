@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
-import { Home } from './views/Home';
+import {routes} from './routes'
+
+import { RouterProvider } from 'react-router-dom';
 
 function App() {
   return (
-    <Home></Home>
+    <RouterProvider router={routes}></RouterProvider>
   );
 }
 
