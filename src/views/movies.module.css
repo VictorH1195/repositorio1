@@ -1,0 +1,15 @@
+.moviesContainer{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.moviesList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.title{
+    margin-bottom: 50px;
+}

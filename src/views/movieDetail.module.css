@@ -1,0 +1,11 @@
+.containerMovieDetail > img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.containerMovieDetail > h1, p{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}

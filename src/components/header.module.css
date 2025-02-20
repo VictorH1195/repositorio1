@@ -1,0 +1,14 @@
+.containerHeader{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.link1{
+    color: blueviolet;
+    margin-right: 20px;
+}
+
+.link2{
+    color: blueviolet;
+}
