@@ -10,3 +10,18 @@
     color: rgb(129, 110, 110);
     text-align: center;
 }
+
+.itemContainer > button{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+}   
+
+.itemContainer > button:hover{
+    background-color: aqua;
+}
